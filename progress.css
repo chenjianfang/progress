@@ -1,0 +1,12 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.statusBar{
+	width: 0;
+	height: 30px;
+	background:blue;
+	margin: 0 auto;
+	-webkit-transition:width 250ms ease-in;
+	transition:width 250ms ease-in;
+}
